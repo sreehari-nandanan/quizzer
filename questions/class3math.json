@@ -1,0 +1,1092 @@
+[
+    {
+        "question": "What comes after 109?",
+        "options": [
+            "110",
+            "109",
+            "111",
+            "108"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which number is smallest?",
+        "options": [
+            "25",
+            "52",
+            "35",
+            "15"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "How many tens are there in 90?",
+        "options": [
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which number is greater than 72?",
+        "options": [
+            "27",
+            "71",
+            "73",
+            "70"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the value of 4 × 6?",
+        "options": [
+            "24",
+            "20",
+            "30",
+            "18"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which shape has 3 sides?",
+        "options": [
+            "Square",
+            "Triangle",
+            "Circle",
+            "Rectangle"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the time in a clock when both hands are at 12?",
+        "options": [
+            "6:00",
+            "12:00",
+            "3:00",
+            "1:00"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How many minutes are there in an hour?",
+        "options": [
+            "30",
+            "60",
+            "100",
+            "90"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "1 rupee = how many paise?",
+        "options": [
+            "50",
+            "25",
+            "100",
+            "10"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which is a currency note?",
+        "options": [
+            "2 rupees",
+            "75 rupees",
+            "3 rupees",
+            "7 rupees"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which shape rolls easily?",
+        "options": [
+            "Cube",
+            "Cone",
+            "Sphere",
+            "Cuboid"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which of the following is an odd number?",
+        "options": [
+            "10",
+            "12",
+            "14",
+            "15"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What comes before 500?",
+        "options": [
+            "501",
+            "498",
+            "499",
+            "502"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "How many corners does a rectangle have?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "6"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which is a multiple of 5?",
+        "options": [
+            "13",
+            "25",
+            "12",
+            "8"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "A week has how many days?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the place value of 5 in 352?",
+        "options": [
+            "50",
+            "5",
+            "500",
+            "0.5"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which is the largest 3-digit number?",
+        "options": [
+            "999",
+            "1000",
+            "100",
+            "990"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How many hours in a day?",
+        "options": [
+            "12",
+            "24",
+            "10",
+            "30"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which shape has no corners?",
+        "options": [
+            "Square",
+            "Circle",
+            "Triangle",
+            "Rectangle"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is 100 – 45?",
+        "options": [
+            "55",
+            "65",
+            "45",
+            "60"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How many zeroes in one thousand?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is 3 × 8?",
+        "options": [
+            "24",
+            "21",
+            "28",
+            "26"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How many 5 rupee coins make 20 rupees?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "A cube has how many faces?",
+        "options": [
+            "4",
+            "6",
+            "8",
+            "2"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is half of 20?",
+        "options": [
+            "5",
+            "10",
+            "15",
+            "8"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "A leap year has how many days?",
+        "options": [
+            "365",
+            "364",
+            "366",
+            "360"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "The number just after 999 is?",
+        "options": [
+            "1000",
+            "9999",
+            "998",
+            "1001"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "One dozen means how many items?",
+        "options": [
+            "6",
+            "10",
+            "12",
+            "20"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which is the smallest even number?",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which of these is a triangle?",
+        "options": [
+            "⚪",
+            "△",
+            "▭",
+            "□"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which number is a multiple of 10?",
+        "options": [
+            "13",
+            "30",
+            "33",
+            "37"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How many months in a year?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "How many sides does a pentagon have?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is 7 more than 56?",
+        "options": [
+            "63",
+            "64",
+            "62",
+            "61"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "A rectangle has ... sides.",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which is heavier?",
+        "options": [
+            "Pencil",
+            "Eraser",
+            "Brick",
+            "Feather"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "The value of 3 tens is ...",
+        "options": [
+            "30",
+            "13",
+            "300",
+            "3"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How many hours from 2 PM to 6 PM?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "2 hundreds + 3 tens = ?",
+        "options": [
+            "230",
+            "320",
+            "23",
+            "203"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the sum of 14 and 16?",
+        "options": [
+            "20",
+            "25",
+            "30",
+            "35"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "One quarter of 20 is ...",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "10"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which is an odd number?",
+        "options": [
+            "8",
+            "10",
+            "3",
+            "6"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is 5 × 9?",
+        "options": [
+            "40",
+            "45",
+            "35",
+            "50"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which shape has 6 faces?",
+        "options": [
+            "Sphere",
+            "Cone",
+            "Cube",
+            "Circle"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is half of 18?",
+        "options": [
+            "9",
+            "10",
+            "8",
+            "7"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which object is lightest?",
+        "options": [
+            "Feather",
+            "Stone",
+            "Brick",
+            "Bottle"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "One metre has how many centimetres?",
+        "options": [
+            "10",
+            "100",
+            "1000",
+            "500"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How many fingers in 2 hands?",
+        "options": [
+            "5",
+            "8",
+            "10",
+            "12"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "A coin of ₹10 + ₹5 = ?",
+        "options": [
+            "₹12",
+            "₹14",
+            "₹15",
+            "₹10"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which is smaller: 68 or 86?",
+        "options": [
+            "86",
+            "68",
+            "Both same",
+            "None"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "One hour has how many minutes?",
+        "options": [
+            "100",
+            "60",
+            "30",
+            "24"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which shape has only 1 face?",
+        "options": [
+            "Sphere",
+            "Cube",
+            "Cuboid",
+            "Cone"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Add: 45 + 20",
+        "options": [
+            "55",
+            "65",
+            "75",
+            "85"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Subtract: 80 – 35",
+        "options": [
+            "45",
+            "55",
+            "65",
+            "60"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which side of a triangle is longest if it's scalene?",
+        "options": [
+            "None",
+            "All equal",
+            "Only one",
+            "It depends"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Number of days in February (non-leap year)?",
+        "options": [
+            "28",
+            "29",
+            "30",
+            "31"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which number comes just before 500?",
+        "options": [
+            "498",
+            "501",
+            "499",
+            "502"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the value of 10 × 10?",
+        "options": [
+            "100",
+            "10",
+            "20",
+            "110"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which number is in between 67 and 69?",
+        "options": [
+            "66",
+            "70",
+            "68",
+            "65"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "How many days in a week?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "How many 50 paise coins make ₹1?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of these is a straight line?",
+        "options": [
+            "Curve",
+            "Arc",
+            "Zigzag",
+            "Ruler edge"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Which unit is used to measure weight?",
+        "options": [
+            "Metres",
+            "Litres",
+            "Grams",
+            "Centimetres"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which is greater: 345 or 354?",
+        "options": [
+            "345",
+            "354",
+            "Equal",
+            "Cannot say"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "10 tens is equal to ...",
+        "options": [
+            "10",
+            "100",
+            "1000",
+            "1"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the difference between 99 and 89?",
+        "options": [
+            "11",
+            "10",
+            "9",
+            "8"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of these is a triangle?",
+        "options": [
+            "⚪",
+            "◼",
+            "△",
+            "⬟"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "A litre is used to measure ...",
+        "options": [
+            "Length",
+            "Weight",
+            "Capacity",
+            "Area"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the sum of 25 and 75?",
+        "options": [
+            "100",
+            "90",
+            "95",
+            "85"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How many faces does a cuboid have?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "How many corners does a cube have?",
+        "options": [
+            "4",
+            "6",
+            "8",
+            "0"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "One-half of 16 is ...",
+        "options": [
+            "8",
+            "6",
+            "4",
+            "10"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which is an even number?",
+        "options": [
+            "11",
+            "15",
+            "22",
+            "27"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "1 rupee = how many 25 paise coins?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which of these is the longest?",
+        "options": [
+            "Metre",
+            "Centimetre",
+            "Kilometre",
+            "Millimetre"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is 12 + 13?",
+        "options": [
+            "24",
+            "25",
+            "26",
+            "27"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which is more: 3 dozens or 30?",
+        "options": [
+            "3 dozens",
+            "30",
+            "Equal",
+            "None"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which is the third month of the year?",
+        "options": [
+            "January",
+            "February",
+            "March",
+            "April"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the expanded form of 308?",
+        "options": [
+            "300+0+8",
+            "300+8",
+            "30+8",
+            "300+80"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the value of 7 × 7?",
+        "options": [
+            "49",
+            "56",
+            "63",
+            "42"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is 1000 – 1?",
+        "options": [
+            "1000",
+            "999",
+            "998",
+            "990"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the smallest 3-digit number?",
+        "options": [
+            "100",
+            "101",
+            "110",
+            "111"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is double of 25?",
+        "options": [
+            "50",
+            "40",
+            "60",
+            "55"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the number name for 321?",
+        "options": [
+            "Three hundred twenty one",
+            "Three thousand twenty one",
+            "Thirty-two one",
+            "Three twenty one"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which shape has a curved face?",
+        "options": [
+            "Sphere",
+            "Cube",
+            "Square",
+            "Rectangle"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which number comes just after 800?",
+        "options": [
+            "799",
+            "801",
+            "802",
+            "798"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How many centimetres in half a metre?",
+        "options": [
+            "25",
+            "50",
+            "100",
+            "200"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "A square has all sides ...",
+        "options": [
+            "Equal",
+            "Different",
+            "Curved",
+            "Long"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is 6 × 3?",
+        "options": [
+            "12",
+            "15",
+            "18",
+            "21"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "How many wheels does a bicycle have?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which is heavier: 1 kg or 500 g?",
+        "options": [
+            "1 kg",
+            "500 g",
+            "Same",
+            "None"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which is longer: metre or centimetre?",
+        "options": [
+            "Metre",
+            "Centimetre",
+            "Both same",
+            "None"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How many hours in half a day?",
+        "options": [
+            "6",
+            "8",
+            "12",
+            "24"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is 9 × 5?",
+        "options": [
+            "35",
+            "40",
+            "45",
+            "50"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is 10 more than 58?",
+        "options": [
+            "68",
+            "78",
+            "60",
+            "70"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which number is less than 20?",
+        "options": [
+            "21",
+            "19",
+            "22",
+            "23"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What comes next: 5, 10, 15, ...?",
+        "options": [
+            "20",
+            "18",
+            "16",
+            "22"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How many 100s in 1000?",
+        "options": [
+            "10",
+            "100",
+            "1",
+            "1000"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the Roman numeral for 10?",
+        "options": [
+            "V",
+            "X",
+            "I",
+            "L"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the time at half past 3?",
+        "options": [
+            "3:00",
+            "3:30",
+            "4:00",
+            "2:30"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is 7 + 8?",
+        "options": [
+            "14",
+            "15",
+            "16",
+            "17"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How many months have 31 days?",
+        "options": [
+            "6",
+            "7",
+            "5",
+            "4"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How many 2 rupee coins make ₹10?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the place value of 2 in 120?",
+        "options": [
+            "2",
+            "20",
+            "200",
+            "0.2"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which pattern is correct?",
+        "options": [
+            "1, 3, 5, 6",
+            "2, 4, 6, 8",
+            "5, 10, 15, 13",
+            "3, 6, 9, 11"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How many 500ml bottles make 1 litre?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which side of a rectangle is longer?",
+        "options": [
+            "All same",
+            "Short sides",
+            "Long sides",
+            "It varies"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "How many edges in a cube?",
+        "options": [
+            "8",
+            "10",
+            "12",
+            "6"
+        ],
+        "correctIndex": 2
+    }
+]

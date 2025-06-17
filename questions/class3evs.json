@@ -1,0 +1,1273 @@
+
+[
+  {
+    "question": "Which part of the plant helps make food?",
+    "options": [
+      "Root",
+      "Stem",
+      "Leaf",
+      "Flower"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What do birds use to fly?",
+    "options": [
+      "Fins",
+      "Wings",
+      "Legs",
+      "Teeth"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these is a source of light?",
+    "options": [
+      "Sun",
+      "Moon",
+      "Table",
+      "Chair"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which material is used to make pots?",
+    "options": [
+      "Plastic",
+      "Metal",
+      "Clay",
+      "Wood"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What kind of animal is a frog?",
+    "options": [
+      "Mammal",
+      "Bird",
+      "Amphibian",
+      "Reptile"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which tool is used to measure time?",
+    "options": [
+      "Clock",
+      "Scale",
+      "Thermometer",
+      "Ruler"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What does a tailor do?",
+    "options": [
+      "Sew clothes",
+      "Drive a car",
+      "Cut trees",
+      "Teach students"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which food comes from plants?",
+    "options": [
+      "Chicken",
+      "Fish",
+      "Rice",
+      "Egg"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these animals lives in water?",
+    "options": [
+      "Shark",
+      "Elephant",
+      "Tiger",
+      "Cow"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What do bees make?",
+    "options": [
+      "Silk",
+      "Honey",
+      "Wax",
+      "Milk"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which part of the body helps us walk?",
+    "options": [
+      "Arms",
+      "Hands",
+      "Legs",
+      "Eyes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which season is known for lots of rain?",
+    "options": [
+      "Winter",
+      "Summer",
+      "Autumn",
+      "Monsoon"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What do we use to cut paper?",
+    "options": [
+      "Knife",
+      "Scissors",
+      "Spoon",
+      "Fork"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which animal lays eggs?",
+    "options": [
+      "Cow",
+      "Hen",
+      "Dog",
+      "Sheep"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What do roots of plants absorb?",
+    "options": [
+      "Sunlight",
+      "Water",
+      "Air",
+      "Soil"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these is a means of transport?",
+    "options": [
+      "Bus",
+      "Plate",
+      "Book",
+      "Pen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What do we wear when it rains?",
+    "options": [
+      "Sunglasses",
+      "Raincoat",
+      "Sweater",
+      "Cap"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which job helps sick people?",
+    "options": [
+      "Doctor",
+      "Teacher",
+      "Tailor",
+      "Driver"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which fruit has seeds on the outside?",
+    "options": [
+      "Apple",
+      "Banana",
+      "Strawberry",
+      "Grapes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What do you use to drink water?",
+    "options": [
+      "Plate",
+      "Glass",
+      "Book",
+      "Chair"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is a leafy vegetable?",
+    "options": [
+      "Potato",
+      "Spinach",
+      "Carrot",
+      "Onion"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which insect gives us silk?",
+    "options": [
+      "Bee",
+      "Silkworm",
+      "Ant",
+      "Butterfly"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the shape of a ball?",
+    "options": [
+      "Cube",
+      "Triangle",
+      "Sphere",
+      "Rectangle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which part of body pumps blood?",
+    "options": [
+      "Lungs",
+      "Kidneys",
+      "Heart",
+      "Brain"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which bird dances on water?",
+    "options": [
+      "Duck",
+      "Peacock",
+      "Swan",
+      "Ostrich"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What do we use to write on paper?",
+    "options": [
+      "Pencil",
+      "Spoon",
+      "Knife",
+      "Fork"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which tool shows directions?",
+    "options": [
+      "Thermometer",
+      "Compass",
+      "Ruler",
+      "Clock"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is a nocturnal animal?",
+    "options": [
+      "Cow",
+      "Owl",
+      "Elephant",
+      "Rat"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What do we get from coconut trees?",
+    "options": [
+      "Silk",
+      "Honey",
+      "Coconut",
+      "Wool"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which is used to light a room at night?",
+    "options": [
+      "Torch",
+      "Fan",
+      "Chair",
+      "Book"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which gas do plants release?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Helium",
+      "Nitrogen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is made of wood?",
+    "options": [
+      "Plastic cup",
+      "Steel spoon",
+      "Wooden chair",
+      "Glass bottle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which animal builds dams in rivers?",
+    "options": [
+      "Beaver",
+      "Bird",
+      "Cow",
+      "Goat"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which direction does the sun rise?",
+    "options": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which job drives a bus?",
+    "options": [
+      "Tailor",
+      "Driver",
+      "Doctor",
+      "Teacher"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which fruit has vitamin C?",
+    "options": [
+      "Apple",
+      "Orange",
+      "Banana",
+      "Grapes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What do seeds grow into?",
+    "options": [
+      "Animals",
+      "Rocks",
+      "Plants",
+      "Cars"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which part of the flower becomes fruit?",
+    "options": [
+      "Stem",
+      "Leaf",
+      "Petal",
+      "Ovule"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Where do ants live?",
+    "options": [
+      "Hive",
+      "Anthill",
+      "Nest",
+      "Burrow"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which sense organ is for tasting?",
+    "options": [
+      "Tongue",
+      "Eye",
+      "Ear",
+      "Nose"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of these is a farm animal?",
+    "options": [
+      "Tiger",
+      "Cow",
+      "Lion",
+      "Bear"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What do you wear on your feet?",
+    "options": [
+      "Gloves",
+      "Socks",
+      "Shoes",
+      "Hat"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which device do we clap to light the bulb?",
+    "options": [
+      "Switch",
+      "Button",
+      "Pen",
+      "Paper"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which animal is the king of the jungle?",
+    "options": [
+      "Elephant",
+      "Tiger",
+      "Lion",
+      "Bear"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is used to drink tea?",
+    "options": [
+      "Plate",
+      "Cup",
+      "Ball",
+      "Book"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which day comes after Tuesday?",
+    "options": [
+      "Monday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these flies in the sky?",
+    "options": [
+      "Kite",
+      "Car",
+      "Table",
+      "Book"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which job helps wounded people?",
+    "options": [
+      "Driver",
+      "Doctor",
+      "Teacher",
+      "Cook"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which animal has stripes?",
+    "options": [
+      "Tiger",
+      "Elefant",
+      "Cow",
+      "Goat"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What do you use to cut wood?",
+    "options": [
+      "Saw",
+      "Knife",
+      "Spoon",
+      "Cup"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which part of body helps you hear?",
+    "options": [
+      "Hand",
+      "Ear",
+      "Eye",
+      "Nose"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these is a source of food?",
+    "options": [
+      "River",
+      "Tree",
+      "Restaurant",
+      "Bus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which animal lives in cold places?",
+    "options": [
+      "Polar bear",
+      "Camel",
+      "Lion",
+      "Elephant"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which gas do we breathe in?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Helium",
+      "Methane"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What do you use to brush your hair?",
+    "options": [
+      "Comb",
+      "Toothbrush",
+      "Fork",
+      "Knife"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What do silkworms eat?",
+    "options": [
+      "Milkweed leaves",
+      "Grass",
+      "Sugar",
+      "Fruit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which tool helps you dig holes in ground?",
+    "options": [
+      "Shovel",
+      "Knife",
+      "Spoon",
+      "Book"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which job works in a bank?",
+    "options": [
+      "Banker",
+      "Doctor",
+      "Sweeper",
+      "Pilot"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which part of a plant holds it in the soil?",
+    "options": [
+      "Stem",
+      "Leaf",
+      "Root",
+      "Flower"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Where do birds keep their eggs?",
+    "options": [
+      "Nest",
+      "Hole",
+      "Den",
+      "Hive"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is a natural source of light?",
+    "options": [
+      "Sun",
+      "Lamp",
+      "Torch",
+      "Fan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What material is clay pot made from?",
+    "options": [
+      "Wood",
+      "Metal",
+      "Clay",
+      "Plastic"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A frog lives in which two places?",
+    "options": [
+      "Land & Water",
+      "Air",
+      "Land & Air",
+      "Water only"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which tool measures time?",
+    "options": [
+      "Thermometer",
+      "Clock",
+      "Ruler",
+      "Scale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A tailor\u2019s job is to ...",
+    "options": [
+      "Drive",
+      "Teach",
+      "Sew clothes",
+      "Cook"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Rice comes from which source?",
+    "options": [
+      "Animal",
+      "Plant",
+      "Mineral",
+      "Metal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which animal lives in water?",
+    "options": [
+      "Shark",
+      "Cow",
+      "Lion",
+      "Horse"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Bees make \u2026",
+    "options": [
+      "Milk",
+      "Honey",
+      "Wax",
+      "Silk"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What do we use to write?",
+    "options": [
+      "Spoon",
+      "Pencil",
+      "Knife",
+      "Ruler"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which season brings heavy rains?",
+    "options": [
+      "Winter",
+      "Summer",
+      "Monsoon",
+      "Autumn"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Roots absorb \u2026 from soil",
+    "options": [
+      "Water",
+      "Light",
+      "Air",
+      "Heat"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is a means of transport?",
+    "options": [
+      "Bus",
+      "Chair",
+      "House",
+      "Tree"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which professional helps sick people?",
+    "options": [
+      "Teacher",
+      "Doctor",
+      "Driver",
+      "Farmer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Strawberry has seeds on which side?",
+    "options": [
+      "Inside",
+      "Outside",
+      "Both",
+      "None"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which utensil is used to drink water?",
+    "options": [
+      "Plate",
+      "Glass",
+      "Book",
+      "Spoon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which leafy vegetable is eaten?",
+    "options": [
+      "Spinach",
+      "Potato",
+      "Carrot",
+      "Apple"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Silkworms produce ...",
+    "options": [
+      "Honey",
+      "Wax",
+      "Silk",
+      "Milk"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A ball is in the shape of a ...",
+    "options": [
+      "Cube",
+      "Sphere",
+      "Pyramid",
+      "Cylinder"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which organ pumps blood?",
+    "options": [
+      "Liver",
+      "Brain",
+      "Heart",
+      "Lung"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Swan floats using its ...",
+    "options": [
+      "Beak",
+      "Feathers",
+      "Legs",
+      "Tail"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is used to write?",
+    "options": [
+      "Chalk",
+      "Knife",
+      "Spoon",
+      "Comb"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A compass shows us the ...",
+    "options": [
+      "Time",
+      "Temperature",
+      "Direction",
+      "Weight"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which nocturnal bird?",
+    "options": [
+      "Parrot",
+      "Owl",
+      "Crow",
+      "Pigeon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Coconut comes from which tree?",
+    "options": [
+      "Mango",
+      "Coconut",
+      "Neem",
+      "Banana"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What brightens a room at night?",
+    "options": [
+      "Fan",
+      "Torch",
+      "Chair",
+      "Book"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Plants release which gas?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Helium"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which object is made of wood?",
+    "options": [
+      "Plastic cup",
+      "Glass bottle",
+      "Wooden chair",
+      "Steel spoon"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Beavers build ... in water",
+    "options": [
+      "Dams",
+      "Nests",
+      "Hives",
+      "Burrows"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Sun rises in the ...",
+    "options": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A bus is driven by a ...",
+    "options": [
+      "Driver",
+      "Farmer",
+      "Teacher",
+      "Doctor"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Seeds grow into ...",
+    "options": [
+      "Animals",
+      "Plants",
+      "Rocks",
+      "Plastic"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Flower\u2019s ovule becomes ...",
+    "options": [
+      "Leaf",
+      "Stem",
+      "Fruit",
+      "Water"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ants live in a ...",
+    "options": [
+      "Hive",
+      "Anthill",
+      "Nest",
+      "Barn"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "We taste with our ...",
+    "options": [
+      "Eye",
+      "Nose",
+      "Tongue",
+      "Ear"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which animal is used on a farm?",
+    "options": [
+      "Cow",
+      "Tiger",
+      "Lion",
+      "Bear"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Shoes are worn on the ...",
+    "options": [
+      "Hands",
+      "Feet",
+      "Head",
+      "Back"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "To light a bulb we use a ...",
+    "options": [
+      "Button",
+      "Switch",
+      "Cord",
+      "Wire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is the king of the forest?",
+    "options": [
+      "Lion",
+      "Elephant",
+      "Deer",
+      "Monkey"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tea is drunk from a ...",
+    "options": [
+      "Cup",
+      "Plate",
+      "Bowl",
+      "Book"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "After Tuesday is ...",
+    "options": [
+      "Monday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What flies in the sky?",
+    "options": [
+      "Car",
+      "Table",
+      "Kite",
+      "Tree"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which doctor treats injured people?",
+    "options": [
+      "Driver",
+      "Teacher",
+      "Doctor",
+      "Cook"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Wood is cut with a ...",
+    "options": [
+      "Saw",
+      "Knife",
+      "Spoon",
+      "Fork"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Smell is through the ...",
+    "options": [
+      "Eye",
+      "Ear",
+      "Nose",
+      "Mouth"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Trees are a source of ...",
+    "options": [
+      "Air",
+      "Plastic",
+      "Metal",
+      "Cloth"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Polar bears live in ...",
+    "options": [
+      "Desert",
+      "Forest",
+      "Arctic",
+      "Grassland"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Humans breathe in ...",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Water",
+      "Dust"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "To comb hair we use a ...",
+    "options": [
+      "Toothbrush",
+      "Comb",
+      "Fork",
+      "Knife"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Silkworms eat ... leaves",
+    "options": [
+      "Cotton",
+      "Mulberry",
+      "Tea",
+      "Palm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A spade is used to ...",
+    "options": [
+      "Dig",
+      "Cut",
+      "Sweep",
+      "Paint"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A banker works in a ...",
+    "options": [
+      "Bank",
+      "School",
+      "Hospital",
+      "Farm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which animal has a long neck?",
+    "options": [
+      "Lion",
+      "Giraffe",
+      "Cow",
+      "Elephant"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which fruit is yellow and curved?",
+    "options": [
+      "Apple",
+      "Banana",
+      "Orange",
+      "Grapes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which tool is used to write?",
+    "options": [
+      "Pen",
+      "Plate",
+      "Spoon",
+      "Brush"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which bird has colourful wings?",
+    "options": [
+      "Crow",
+      "Parrot",
+      "Eagle",
+      "Sparrow"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which festival is the festival of lights?",
+    "options": [
+      "Diwali",
+      "Holi",
+      "Eid",
+      "Christmas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which planet is Earth\u2019s natural satellite?",
+    "options": [
+      "Mars",
+      "Moon",
+      "Sun",
+      "Venus"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which process do plants use to make food?",
+    "options": [
+      "Digestion",
+      "Photosynthesis",
+      "Respiration",
+      "Evaporation"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Sun sets in the ...",
+    "options": [
+      "East",
+      "North",
+      "West",
+      "South"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Lemon tastes ...",
+    "options": [
+      "Sweet",
+      "Salty",
+      "Sour",
+      "Bitter"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In cold weather you wear ...",
+    "options": [
+      "Raincoat",
+      "Woollen clothes",
+      "Swimsuit",
+      "Sunglasses"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A train runs on ...",
+    "options": [
+      "Road",
+      "Rail",
+      "Water",
+      "Sky"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The police help to ...",
+    "options": [
+      "Teach",
+      "Protect",
+      "Build",
+      "Cook"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Where do fish breathe?",
+    "options": [
+      "Land",
+      "Water",
+      "Air",
+      "Leaves"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Dustbin is used to throw ...",
+    "options": [
+      "Food",
+      "Water",
+      "Garbage",
+      "Books"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Sugar is made from ... plant",
+    "options": [
+      "Wheat",
+      "Rice",
+      "Sugarcane",
+      "Cotton"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which body part helps in thinking?",
+    "options": [
+      "Heart",
+      "Brain",
+      "Stomach",
+      "Lungs"
+    ],
+    "correctIndex": 1
+  }
+]

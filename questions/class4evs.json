@@ -1,0 +1,992 @@
+[
+    {
+        "question": "What do honey bees live in?",
+        "options": [
+            "Nest",
+            "Hive",
+            "Burrow",
+            "Web"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which part of the plant absorbs water from the soil?",
+        "options": [
+            "Stem",
+            "Leaf",
+            "Root",
+            "Flower"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the main source of water on Earth?",
+        "options": [
+            "Rain",
+            "Rivers",
+            "Lakes",
+            "Oceans"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which animal is called the ‘Ship of the Desert’?",
+        "options": [
+            "Elephant",
+            "Camel",
+            "Horse",
+            "Donkey"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the function of the heart?",
+        "options": [
+            "Breathing",
+            "Digesting food",
+            "Pumping blood",
+            "Thinking"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which bird can mimic human voice?",
+        "options": [
+            "Crow",
+            "Pigeon",
+            "Parrot",
+            "Sparrow"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which sense organ helps us to smell?",
+        "options": [
+            "Eyes",
+            "Ears",
+            "Nose",
+            "Tongue"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "How many legs does a spider have?",
+        "options": [
+            "6",
+            "8",
+            "10",
+            "4"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which gas do we need to breathe?",
+        "options": [
+            "Carbon dioxide",
+            "Hydrogen",
+            "Oxygen",
+            "Nitrogen"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What do animals need to live?",
+        "options": [
+            "Food",
+            "Water",
+            "Air",
+            "All of these"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Which part of the body helps us think?",
+        "options": [
+            "Lungs",
+            "Heart",
+            "Brain",
+            "Stomach"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Where do we get cotton from?",
+        "options": [
+            "Animal",
+            "Mineral",
+            "Plant",
+            "Tree bark"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What helps the clothes dry faster?",
+        "options": [
+            "Sunlight",
+            "Moonlight",
+            "Rain",
+            "Snow"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What do we call the young one of a cow?",
+        "options": [
+            "Puppy",
+            "Kid",
+            "Calf",
+            "Foal"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which tool is used to measure temperature?",
+        "options": [
+            "Barometer",
+            "Thermometer",
+            "Compass",
+            "Scale"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which animal gives us milk?",
+        "options": [
+            "Goat",
+            "Tiger",
+            "Dog",
+            "Hen"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How many hours are there in a day?",
+        "options": [
+            "12",
+            "24",
+            "10",
+            "48"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which one is a renewable resource?",
+        "options": [
+            "Petrol",
+            "Coal",
+            "Sunlight",
+            "Diesel"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is made from jute?",
+        "options": [
+            "Shoes",
+            "Plastic bags",
+            "Gunny bags",
+            "Glass bottles"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which of these is a herbivore?",
+        "options": [
+            "Lion",
+            "Tiger",
+            "Cow",
+            "Dog"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "How do fish breathe?",
+        "options": [
+            "Lungs",
+            "Gills",
+            "Nose",
+            "Mouth"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which part of the body has fingers?",
+        "options": [
+            "Legs",
+            "Arms",
+            "Hands",
+            "Ears"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What helps birds fly?",
+        "options": [
+            "Tail",
+            "Feathers",
+            "Beak",
+            "Legs"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which tree gives us neem leaves?",
+        "options": [
+            "Banyan",
+            "Peepal",
+            "Neem",
+            "Mango"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which festival is called the festival of lights?",
+        "options": [
+            "Holi",
+            "Eid",
+            "Diwali",
+            "Christmas"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which bird builds its nest with its beak?",
+        "options": [
+            "Crow",
+            "Swan",
+            "Owl",
+            "Parrot"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What do plants give us to breathe?",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Hydrogen",
+            "Nitrogen"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which of the following is used to cook food?",
+        "options": [
+            "Electricity",
+            "Sunlight",
+            "Gas",
+            "All of these"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Where do we store drinking water at home?",
+        "options": [
+            "Bucket",
+            "Sink",
+            "Bottle",
+            "Container"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "How many sides does a rectangle have?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which plant has thorns?",
+        "options": [
+            "Rose",
+            "Mango",
+            "Banyan",
+            "Tulsi"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What do we get from wheat?",
+        "options": [
+            "Rice",
+            "Milk",
+            "Flour",
+            "Cotton"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What do farmers use to plough the field?",
+        "options": [
+            "Tractor",
+            "Bulldozer",
+            "Bike",
+            "Train"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which sense organ helps us see?",
+        "options": [
+            "Ear",
+            "Eye",
+            "Nose",
+            "Tongue"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which food is rich in proteins?",
+        "options": [
+            "Rice",
+            "Dal",
+            "Sugar",
+            "Salt"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What do we use to clean our teeth?",
+        "options": [
+            "Comb",
+            "Brush",
+            "Spoon",
+            "Cloth"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which one is a domestic animal?",
+        "options": [
+            "Tiger",
+            "Dog",
+            "Lion",
+            "Fox"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the natural satellite of the Earth?",
+        "options": [
+            "Mars",
+            "Sun",
+            "Moon",
+            "Venus"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the process of making food in plants called?",
+        "options": [
+            "Digestion",
+            "Photosynthesis",
+            "Respiration",
+            "Circulation"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which direction does the sun rise?",
+        "options": [
+            "North",
+            "West",
+            "East",
+            "South"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the taste of lemon?",
+        "options": [
+            "Sweet",
+            "Salty",
+            "Sour",
+            "Bitter"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What do we wear in winter to keep warm?",
+        "options": [
+            "Cotton clothes",
+            "Woollen clothes",
+            "Raincoat",
+            "Silk clothes"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which vehicle moves on tracks?",
+        "options": [
+            "Car",
+            "Bus",
+            "Train",
+            "Scooter"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What do you call a house on wheels?",
+        "options": [
+            "Boat",
+            "Caravan",
+            "Tent",
+            "Hut"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Where do Eskimos live?",
+        "options": [
+            "Hut",
+            "Igloo",
+            "Flat",
+            "Tent"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which profession teaches students?",
+        "options": [
+            "Doctor",
+            "Tailor",
+            "Teacher",
+            "Driver"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What does a cobbler do?",
+        "options": [
+            "Cook food",
+            "Repair shoes",
+            "Cut hair",
+            "Drive car"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the boiling point of water?",
+        "options": [
+            "0°C",
+            "50°C",
+            "100°C",
+            "150°C"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What do we get from hens?",
+        "options": [
+            "Milk",
+            "Eggs",
+            "Meat",
+            "Honey"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is used to sow seeds?",
+        "options": [
+            "Cycle",
+            "Tractor",
+            "Aeroplane",
+            "Hammer"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the color of chlorophyll in plants?",
+        "options": [
+            "Red",
+            "Green",
+            "Yellow",
+            "Blue"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which insect has colorful wings?",
+        "options": [
+            "Ant",
+            "Cockroach",
+            "Butterfly",
+            "Bee"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which festival is known for kites?",
+        "options": [
+            "Diwali",
+            "Holi",
+            "Makar Sankranti",
+            "Raksha Bandhan"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Where does the sun set?",
+        "options": [
+            "North",
+            "East",
+            "West",
+            "South"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What do we use to draw straight lines?",
+        "options": [
+            "Compass",
+            "Scale",
+            "Pencil",
+            "Eraser"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Who repairs water pipes?",
+        "options": [
+            "Electrician",
+            "Plumber",
+            "Carpenter",
+            "Mason"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which animal guards our house?",
+        "options": [
+            "Cat",
+            "Cow",
+            "Dog",
+            "Horse"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which is the festival of colors?",
+        "options": [
+            "Eid",
+            "Christmas",
+            "Holi",
+            "Diwali"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which animal has black and white stripes?",
+        "options": [
+            "Zebra",
+            "Tiger",
+            "Leopard",
+            "Lion"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which of these is a source of light?",
+        "options": [
+            "Moon",
+            "Sun",
+            "Mirror",
+            "Rock"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the main function of roots?",
+        "options": [
+            "Photosynthesis",
+            "Absorb water",
+            "Make seeds",
+            "Attract insects"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of these is a water animal?",
+        "options": [
+            "Monkey",
+            "Cat",
+            "Frog",
+            "Horse"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which machine is used to wash clothes?",
+        "options": [
+            "Mixer",
+            "Grinder",
+            "Washing Machine",
+            "Oven"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which bird sleeps during the day and is awake at night?",
+        "options": [
+            "Sparrow",
+            "Pigeon",
+            "Owl",
+            "Crow"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What are dried seeds of a plant used for growing called?",
+        "options": [
+            "Leaves",
+            "Fruits",
+            "Seeds",
+            "Roots"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which animal lives in a burrow?",
+        "options": [
+            "Lion",
+            "Rabbit",
+            "Elephant",
+            "Cow"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What helps boats float on water?",
+        "options": [
+            "Rope",
+            "Wheels",
+            "Buoyancy",
+            "Engine"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is used to send letters?",
+        "options": [
+            "Stamp",
+            "Tape",
+            "Glue",
+            "Thread"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What are clothes made of?",
+        "options": [
+            "Plastic",
+            "Thread",
+            "Wood",
+            "Metal"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which part of the plant makes seeds?",
+        "options": [
+            "Root",
+            "Stem",
+            "Leaf",
+            "Flower"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "Which of these is not a farm animal?",
+        "options": [
+            "Goat",
+            "Horse",
+            "Tiger",
+            "Sheep"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What do we wear to protect from rain?",
+        "options": [
+            "Sweater",
+            "Raincoat",
+            "Shawl",
+            "Scarf"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of these animals lays eggs?",
+        "options": [
+            "Cow",
+            "Dog",
+            "Hen",
+            "Cat"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What helps a plant to stand upright?",
+        "options": [
+            "Fruit",
+            "Stem",
+            "Leaf",
+            "Seed"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which part of the plant is eaten as carrot?",
+        "options": [
+            "Root",
+            "Stem",
+            "Leaf",
+            "Flower"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which of these is not a source of water?",
+        "options": [
+            "Well",
+            "River",
+            "Tap",
+            "Fire"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What do we call the person who stitches clothes?",
+        "options": [
+            "Tailor",
+            "Driver",
+            "Baker",
+            "Painter"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which of the following is a solid?",
+        "options": [
+            "Water",
+            "Ice",
+            "Air",
+            "Steam"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which part of the body do we use to hear?",
+        "options": [
+            "Eyes",
+            "Ears",
+            "Hands",
+            "Nose"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the taste of sugar?",
+        "options": [
+            "Sour",
+            "Sweet",
+            "Salty",
+            "Bitter"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is used to grow new plants?",
+        "options": [
+            "Fruits",
+            "Stems",
+            "Seeds",
+            "Flowers"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What does a doctor use to check heartbeat?",
+        "options": [
+            "Microscope",
+            "Stethoscope",
+            "X-ray",
+            "Syringe"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What do we use to cut paper?",
+        "options": [
+            "Knife",
+            "Scissors",
+            "Ruler",
+            "Tape"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which insect makes honey?",
+        "options": [
+            "Butterfly",
+            "Bee",
+            "Ant",
+            "Fly"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which festival involves decorating Christmas trees?",
+        "options": [
+            "Diwali",
+            "Eid",
+            "Christmas",
+            "Holi"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the name of Mahatma Gandhi’s ashram?",
+        "options": [
+            "Sabarmati",
+            "Sarnath",
+            "Nalanda",
+            "Bodhgaya"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Who invented the telephone?",
+        "options": [
+            "Thomas Edison",
+            "Graham Bell",
+            "Newton",
+            "Einstein"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which direction is opposite to east?",
+        "options": [
+            "West",
+            "North",
+            "South",
+            "Up"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which organ pumps blood in our body?",
+        "options": [
+            "Lungs",
+            "Heart",
+            "Brain",
+            "Kidney"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which is the longest river in India?",
+        "options": [
+            "Ganga",
+            "Yamuna",
+            "Brahmaputra",
+            "Krishna"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Who grows crops in the field?",
+        "options": [
+            "Pilot",
+            "Farmer",
+            "Driver",
+            "Teacher"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the color of the sky on a clear day?",
+        "options": [
+            "Green",
+            "Red",
+            "Blue",
+            "Yellow"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What helps humans to walk?",
+        "options": [
+            "Hands",
+            "Legs",
+            "Ears",
+            "Eyes"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which bird cannot fly?",
+        "options": [
+            "Eagle",
+            "Pigeon",
+            "Ostrich",
+            "Crow"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which of these is used for transport?",
+        "options": [
+            "Fan",
+            "Bus",
+            "Chair",
+            "Clock"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Where do we throw garbage?",
+        "options": [
+            "River",
+            "Ground",
+            "Dustbin",
+            "Road"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which part of the plant is used for making sugar?",
+        "options": [
+            "Stem",
+            "Leaf",
+            "Root",
+            "Fruit"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Who is called the Father of the Nation?",
+        "options": [
+            "Subhash Chandra Bose",
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Dr. Ambedkar"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the main food of people in Punjab?",
+        "options": [
+            "Idli",
+            "Dhokla",
+            "Makki ki Roti",
+            "Fish curry"
+        ],
+        "correctIndex": 2
+    }
+]

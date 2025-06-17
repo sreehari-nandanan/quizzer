@@ -1,0 +1,248 @@
+[
+    {
+      "question": "Which part of the plant is green?",
+      "options": ["Root", "Stem", "Leaf", "Flower"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What do we breathe in to live?",
+      "options": ["Oxygen", "Carbon Dioxide", "Hydrogen", "Helium"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which animal says 'meow'?",
+      "options": ["Dog", "Cat", "Cow", "Horse"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What do we wear in the rain?",
+      "options": ["Sunglasses", "Raincoat", "Sweater", "Cap"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of these is used to clean teeth?",
+      "options": ["Comb", "Toothbrush", "Spoon", "Cup"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which sense organ helps us see?",
+      "options": ["Eyes", "Ears", "Nose", "Skin"],
+      "correctIndex": 0
+    },
+    {
+      "question": "What do we use to smell?",
+      "options": ["Tongue", "Nose", "Eyes", "Ears"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of these is a wild animal?",
+      "options": ["Cow", "Dog", "Tiger", "Goat"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What do plants need to grow?",
+      "options": ["Toys", "Water", "Clothes", "Books"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What do we call our father's father?",
+      "options": ["Uncle", "Brother", "Grandfather", "Cousin"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which part of the body helps us hear?",
+      "options": ["Eyes", "Ears", "Nose", "Legs"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What do we eat to stay healthy?",
+      "options": ["Chips", "Chocolates", "Fruits", "Ice Cream"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Where do fish live?",
+      "options": ["Sky", "Water", "Land", "Cage"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What do we wear on our feet?",
+      "options": ["Shirt", "Hat", "Shoes", "Scarf"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What do bees make?",
+      "options": ["Butter", "Milk", "Honey", "Juice"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of these is a bird?",
+      "options": ["Lion", "Elephant", "Crow", "Dog"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What do we use to write?",
+      "options": ["Spoon", "Pencil", "Eraser", "Fork"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which one is a fruit?",
+      "options": ["Potato", "Tomato", "Mango", "Carrot"],
+      "correctIndex": 2
+    },
+    {
+      "question": "When do we sleep?",
+      "options": ["Morning", "Afternoon", "Evening", "Night"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Where do we live?",
+      "options": ["School", "Office", "Hospital", "House"],
+      "correctIndex": 3
+    },
+    {
+      "question": "What helps us taste food?",
+      "options": ["Ears", "Nose", "Tongue", "Eyes"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What shines in the day sky?",
+      "options": ["Moon", "Stars", "Sun", "Cloud"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of these animals has a long neck?",
+      "options": ["Elephant", "Lion", "Giraffe", "Tiger"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which one is used for cutting paper?",
+      "options": ["Spoon", "Pen", "Scissors", "Brush"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which vehicle flies in the sky?",
+      "options": ["Bus", "Car", "Aeroplane", "Train"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is the color of leaves?",
+      "options": ["Red", "Green", "Blue", "Yellow"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What do we see with?",
+      "options": ["Hands", "Ears", "Eyes", "Nose"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Who teaches us at school?",
+      "options": ["Doctor", "Teacher", "Chef", "Farmer"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What do you call a young dog?",
+      "options": ["Kitten", "Puppy", "Cub", "Calf"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What do we drink to stay healthy?",
+      "options": ["Soda", "Juice", "Milk", "Oil"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What do we use to comb hair?",
+      "options": ["Brush", "Comb", "Spoon", "Cloth"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What do we use when it is cold?",
+      "options": ["Fan", "Blanket", "Raincoat", "Cap"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of these is a festival?",
+      "options": ["Diwali", "Winter", "Monday", "June"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which part of the plant is below the soil?",
+      "options": ["Leaf", "Stem", "Flower", "Root"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which planet do we live on?",
+      "options": ["Mars", "Earth", "Jupiter", "Venus"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the shape of the Earth?",
+      "options": ["Square", "Flat", "Round", "Triangle"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What is used to carry school books?",
+      "options": ["Basket", "Bag", "Box", "Tray"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which is the national animal of India?",
+      "options": ["Tiger", "Lion", "Elephant", "Deer"],
+      "correctIndex": 0
+    },
+    {
+      "question": "What grows on our head?",
+      "options": ["Nails", "Hair", "Teeth", "Skin"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What do you call a house made of snow?",
+      "options": ["Tent", "Igloo", "Hut", "Cottage"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the color of the sky?",
+      "options": ["Green", "Blue", "Black", "Red"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the national flower of India?",
+      "options": ["Rose", "Lily", "Lotus", "Sunflower"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which sense organ helps us feel?",
+      "options": ["Eyes", "Ears", "Skin", "Nose"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which animal gives us milk?",
+      "options": ["Cow", "Lion", "Cat", "Horse"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which bird cannot fly?",
+      "options": ["Crow", "Peacock", "Sparrow", "Ostrich"],
+      "correctIndex": 3
+    },
+    {
+      "question": "What do we wear on our eyes in the sun?",
+      "options": ["Hat", "Sunglasses", "Scarf", "Shoes"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which one is a mode of transport?",
+      "options": ["Chair", "Car", "Pillow", "Curtain"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which one of these is healthy to eat?",
+      "options": ["Chips", "Burger", "Apple", "Candy"],
+      "correctIndex": 2
+    },
+    {
+      "question": "What do we use to call someone?",
+      "options": ["Television", "Fridge", "Telephone", "Fan"],
+      "correctIndex": 2
+    }
+  ]
+  

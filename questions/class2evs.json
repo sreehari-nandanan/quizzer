@@ -1,0 +1,2002 @@
+[
+  {
+    "question": "What do we get from cows?",
+    "options": [
+      "Milk",
+      "Honey",
+      "Eggs",
+      "Wool"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which animal gives us wool?",
+    "options": [
+      "Cow",
+      "Sheep",
+      "Goat",
+      "Buffalo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Where do birds build nests?",
+    "options": [
+      "Trees",
+      "Water",
+      "Ground",
+      "Caves"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What do we get from bees?",
+    "options": [
+      "Wax",
+      "Milk",
+      "Wool",
+      "Eggs"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which part of the plant is used to make food?",
+    "options": [
+      "Stem",
+      "Leaf",
+      "Root",
+      "Flower"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What do plants need to grow?",
+    "options": [
+      "Milk",
+      "Sugar",
+      "Sunlight",
+      "Juice"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Where do fish live?",
+    "options": [
+      "Air",
+      "Land",
+      "Water",
+      "Trees"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these can fly?",
+    "options": [
+      "Crow",
+      "Elephant",
+      "Dog",
+      "Snake"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What do you use to clean your teeth?",
+    "options": [
+      "Spoon",
+      "Toothbrush",
+      "Comb",
+      "Fork"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What do we wear when it is cold?",
+    "options": [
+      "Sweater",
+      "Raincoat",
+      "T-shirt",
+      "Shorts"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of these is a means of transport?",
+    "options": [
+      "Car",
+      "Chair",
+      "Table",
+      "Fan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Where do you see stars?",
+    "options": [
+      "Sky",
+      "Ocean",
+      "Field",
+      "Road"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is needed to see in the dark?",
+    "options": [
+      "Mirror",
+      "Torch",
+      "Soap",
+      "Comb"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these is used to carry school books?",
+    "options": [
+      "Pencil",
+      "Eraser",
+      "School Bag",
+      "Box"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these is a healthy habit?",
+    "options": [
+      "Brushing teeth",
+      "Eating junk",
+      "Skipping meals",
+      "Not bathing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What do we use to write?",
+    "options": [
+      "Plate",
+      "Spoon",
+      "Pencil",
+      "Knife"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these is not a good habit?",
+    "options": [
+      "Helping others",
+      "Throwing garbage on the road",
+      "Washing hands",
+      "Respecting elders"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Where do we cook food?",
+    "options": [
+      "Kitchen",
+      "Bedroom",
+      "Bathroom",
+      "Store room"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What do we eat in the morning?",
+    "options": [
+      "Breakfast",
+      "Lunch",
+      "Dinner",
+      "Dessert"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which part of the body helps us smell?",
+    "options": [
+      "Nose",
+      "Eyes",
+      "Ears",
+      "Hands"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "How many legs does a spider have?",
+    "options": [
+      "Four",
+      "Six",
+      "Eight",
+      "Ten"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these is a fruit?",
+    "options": [
+      "Potato",
+      "Carrot",
+      "Apple",
+      "Onion"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these comes from a plant?",
+    "options": [
+      "Paper",
+      "Plastic",
+      "Iron",
+      "Gold"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Where do camels live?",
+    "options": [
+      "Desert",
+      "Ocean",
+      "Forest",
+      "Mountains"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which one is a domestic animal?",
+    "options": [
+      "Tiger",
+      "Dog",
+      "Fox",
+      "Wolf"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What do we wear when it rains?",
+    "options": [
+      "Raincoat",
+      "Sweater",
+      "Shirt",
+      "Scarf"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What helps us to hear?",
+    "options": [
+      "Eyes",
+      "Hands",
+      "Ears",
+      "Nose"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the color of leaves?",
+    "options": [
+      "Red",
+      "Green",
+      "Blue",
+      "Yellow"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What do we use to drink water?",
+    "options": [
+      "Plate",
+      "Bottle",
+      "Pen",
+      "Spoon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which festival is known as the festival of lights?",
+    "options": [
+      "Holi",
+      "Diwali",
+      "Christmas",
+      "Eid"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these is used to draw?",
+    "options": [
+      "Crayon",
+      "Plate",
+      "Cup",
+      "Ball"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "How many wheels does a bicycle have?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these animals has a long trunk?",
+    "options": [
+      "Dog",
+      "Cat",
+      "Elephant",
+      "Cow"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these is a vegetable?",
+    "options": [
+      "Mango",
+      "Brinjal",
+      "Banana",
+      "Apple"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is used to sweep the floor?",
+    "options": [
+      "Mop",
+      "Plate",
+      "Pen",
+      "Box"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What helps plants grow?",
+    "options": [
+      "Water",
+      "Oil",
+      "Milk",
+      "Juice"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of these is used to keep food cold?",
+    "options": [
+      "Oven",
+      "Refrigerator",
+      "Toaster",
+      "Stove"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Where do we sleep?",
+    "options": [
+      "Table",
+      "Sofa",
+      "Bed",
+      "Chair"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who teaches in school?",
+    "options": [
+      "Doctor",
+      "Teacher",
+      "Police",
+      "Pilot"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is made from wheat?",
+    "options": [
+      "Rice",
+      "Dal",
+      "Roti",
+      "Milk"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Where does a postman work?",
+    "options": [
+      "Hospital",
+      "Post Office",
+      "Bank",
+      "School"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What do we breathe in?",
+    "options": [
+      "Carbon dioxide",
+      "Smoke",
+      "Oxygen",
+      "Dust"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What do we use to wash hands?",
+    "options": [
+      "Soap",
+      "Toothbrush",
+      "Comb",
+      "Towel"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the color of the sky on a clear day?",
+    "options": [
+      "Red",
+      "Green",
+      "Blue",
+      "Yellow"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these is a source of water?",
+    "options": [
+      "Tap",
+      "Fan",
+      "Radio",
+      "Bulb"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is a house made of?",
+    "options": [
+      "Bricks",
+      "Paper",
+      "Cloth",
+      "Plastic"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of these is a natural thing?",
+    "options": [
+      "Car",
+      "Chair",
+      "Tree",
+      "Ball"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is used to cut paper?",
+    "options": [
+      "Spoon",
+      "Scissors",
+      "Plate",
+      "Comb"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which season is the coldest?",
+    "options": [
+      "Summer",
+      "Winter",
+      "Rainy",
+      "Spring"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is worn on the head?",
+    "options": [
+      "Shirt",
+      "Pant",
+      "Cap",
+      "Socks"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does a tailor use to sew clothes?",
+    "options": [
+      "Hammer",
+      "Scissors",
+      "Needle",
+      "Spoon"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which festival is celebrated with colors?",
+    "options": [
+      "Diwali",
+      "Holi",
+      "Christmas",
+      "Raksha Bandhan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Where do we keep our books?",
+    "options": [
+      "Cupboard",
+      "Fridge",
+      "Sink",
+      "Bin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of these do we see in the sky at night?",
+    "options": [
+      "Sun",
+      "Moon",
+      "Rainbow",
+      "Clouds"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these is a sense organ?",
+    "options": [
+      "Heart",
+      "Liver",
+      "Eye",
+      "Stomach"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What do we drink when we are thirsty?",
+    "options": [
+      "Juice",
+      "Water",
+      "Milk",
+      "Soup"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which insect makes honey?",
+    "options": [
+      "Ant",
+      "Bee",
+      "Mosquito",
+      "Fly"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these animals is known for running fast?",
+    "options": [
+      "Turtle",
+      "Snail",
+      "Cheetah",
+      "Cow"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who brings letters to our house?",
+    "options": [
+      "Driver",
+      "Postman",
+      "Doctor",
+      "Cook"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which one is used for measuring time?",
+    "options": [
+      "Clock",
+      "Mirror",
+      "Torch",
+      "Book"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What do we wear on our feet?",
+    "options": [
+      "Hat",
+      "Shoes",
+      "Gloves",
+      "Scarf"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What helps us to walk?",
+    "options": [
+      "Arms",
+      "Nose",
+      "Legs",
+      "Eyes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the shape of a ball?",
+    "options": [
+      "Cube",
+      "Circle",
+      "Sphere",
+      "Rectangle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these is not a bird?",
+    "options": [
+      "Sparrow",
+      "Eagle",
+      "Ostrich",
+      "Cat"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What do we use an umbrella for?",
+    "options": [
+      "Sleeping",
+      "Cooking",
+      "Protection from rain",
+      "Playing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these is not a vegetable?",
+    "options": [
+      "Onion",
+      "Brinjal",
+      "Orange",
+      "Carrot"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who stitches our clothes?",
+    "options": [
+      "Doctor",
+      "Tailor",
+      "Carpenter",
+      "Driver"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these is not a healthy food?",
+    "options": [
+      "Fruits",
+      "Vegetables",
+      "Chips",
+      "Milk"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What do we wear in summer?",
+    "options": [
+      "Sweater",
+      "Raincoat",
+      "Cotton clothes",
+      "Woolen clothes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these animals lays eggs?",
+    "options": [
+      "Dog",
+      "Cat",
+      "Hen",
+      "Goat"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What do we use to eat food?",
+    "options": [
+      "Broom",
+      "Spoon",
+      "Pen",
+      "Ruler"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these grows under the soil?",
+    "options": [
+      "Carrot",
+      "Mango",
+      "Banana",
+      "Papaya"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which part of the body helps us to think?",
+    "options": [
+      "Heart",
+      "Brain",
+      "Lungs",
+      "Kidney"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Where do we sit in a classroom?",
+    "options": [
+      "Desk",
+      "Cupboard",
+      "Blackboard",
+      "Bench"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of these is used to water plants?",
+    "options": [
+      "Bucket",
+      "Kettle",
+      "Mug",
+      "Watering can"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of these is not a part of a plant?",
+    "options": [
+      "Leaf",
+      "Root",
+      "Stem",
+      "Feather"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of these is a domestic bird?",
+    "options": [
+      "Crow",
+      "Eagle",
+      "Hen",
+      "Peacock"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these gives shade?",
+    "options": [
+      "Chair",
+      "Tree",
+      "Cloud",
+      "Fan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the color of a ripe banana?",
+    "options": [
+      "Green",
+      "Yellow",
+      "Red",
+      "Purple"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is used to wash clothes?",
+    "options": [
+      "Brush",
+      "Broom",
+      "Detergent",
+      "Oil"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which part of the body helps us to see?",
+    "options": [
+      "Ears",
+      "Nose",
+      "Eyes",
+      "Hands"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these is not a source of water?",
+    "options": [
+      "River",
+      "Lake",
+      "Tap",
+      "Fan"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of these animals can fly?",
+    "options": [
+      "Crow",
+      "Elephant",
+      "Dog",
+      "Snake"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What do we see in the sky during the day?",
+    "options": [
+      "Moon",
+      "Stars",
+      "Sun",
+      "Bulb"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who brings us food in a restaurant?",
+    "options": [
+      "Cook",
+      "Driver",
+      "Waiter",
+      "Gardener"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the color of grass?",
+    "options": [
+      "Red",
+      "Green",
+      "Yellow",
+      "Blue"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the use of a stethoscope?",
+    "options": [
+      "To eat",
+      "To write",
+      "To hear heartbeat",
+      "To clean"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What helps us to smell?",
+    "options": [
+      "Ears",
+      "Nose",
+      "Mouth",
+      "Eyes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Where do we throw garbage?",
+    "options": [
+      "Street",
+      "Ground",
+      "Dustbin",
+      "Garden"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who keeps us safe?",
+    "options": [
+      "Teacher",
+      "Postman",
+      "Police",
+      "Tailor"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which vehicle runs on rails?",
+    "options": [
+      "Bus",
+      "Car",
+      "Train",
+      "Bicycle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which bird cannot fly?",
+    "options": [
+      "Sparrow",
+      "Ostrich",
+      "Pigeon",
+      "Crow"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What do we wear in the rainy season?",
+    "options": [
+      "Sweater",
+      "Raincoat",
+      "Shawl",
+      "Muffler"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is used to comb hair?",
+    "options": [
+      "Toothbrush",
+      "Soap",
+      "Comb",
+      "Razor"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Where does a teacher work?",
+    "options": [
+      "Hospital",
+      "School",
+      "Bank",
+      "Factory"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these grows on trees?",
+    "options": [
+      "Onion",
+      "Potato",
+      "Apple",
+      "Carrot"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Where does a pilot work?",
+    "options": [
+      "Train",
+      "Ship",
+      "Airplane",
+      "Taxi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who treats us when we are sick?",
+    "options": [
+      "Teacher",
+      "Doctor",
+      "Engineer",
+      "Postman"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these animals is kept as a pet?",
+    "options": [
+      "Tiger",
+      "Lion",
+      "Cat",
+      "Wolf"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What do plants give us to breathe?",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Smoke",
+      "Dust"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is the fastest land animal?",
+    "options": [
+      "Lion",
+      "Horse",
+      "Cheetah",
+      "Dog"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What helps plants make their food?",
+    "options": [
+      "Air",
+      "Sunlight",
+      "Fertilizer",
+      "Rain"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these animals is herbivore?",
+    "options": [
+      "Lion",
+      "Tiger",
+      "Cow",
+      "Wolf"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What do we use to clean the floor?",
+    "options": [
+      "Broom",
+      "Spoon",
+      "Plate",
+      "Towel"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which organ helps us hear?",
+    "options": [
+      "Eye",
+      "Nose",
+      "Ear",
+      "Mouth"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What do we use to see faraway objects?",
+    "options": [
+      "Binoculars",
+      "Microscope",
+      "Mirror",
+      "Magnifying glass"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Who drives a car?",
+    "options": [
+      "Pilot",
+      "Sailor",
+      "Driver",
+      "Cook"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which animal guards our house?",
+    "options": [
+      "Cat",
+      "Dog",
+      "Cow",
+      "Monkey"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these birds can talk?",
+    "options": [
+      "Sparrow",
+      "Crow",
+      "Parrot",
+      "Eagle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these gives us light at night?",
+    "options": [
+      "Sun",
+      "Bulb",
+      "Fan",
+      "Mirror"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Where does a farmer work?",
+    "options": [
+      "Factory",
+      "Office",
+      "Farm",
+      "Shop"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these can swim?",
+    "options": [
+      "Cat",
+      "Dog",
+      "Elephant",
+      "Tiger"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these is used in the kitchen?",
+    "options": [
+      "Bat",
+      "Plate",
+      "Brush",
+      "Pen"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What gives us shade in summer?",
+    "options": [
+      "Fan",
+      "Tree",
+      "Wall",
+      "Light"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is used to store water?",
+    "options": [
+      "Plate",
+      "Glass",
+      "Bucket",
+      "Towel"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these makes a buzzing sound?",
+    "options": [
+      "Bee",
+      "Dog",
+      "Cow",
+      "Parrot"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the color of blood?",
+    "options": [
+      "Green",
+      "Blue",
+      "Red",
+      "Black"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What helps us to taste food?",
+    "options": [
+      "Nose",
+      "Eyes",
+      "Mouth",
+      "Tongue"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of these is a festival of India?",
+    "options": [
+      "Diwali",
+      "Easter",
+      "Thanksgiving",
+      "Halloween"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which shape has four equal sides?",
+    "options": [
+      "Triangle",
+      "Rectangle",
+      "Square",
+      "Circle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What do plants need to grow?",
+    "options": [
+      "Smoke",
+      "Stone",
+      "Sunlight",
+      "Plastic"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which is a healthy habit?",
+    "options": [
+      "Not brushing teeth",
+      "Washing hands",
+      "Littering",
+      "Skipping meals"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which vehicle moves in water?",
+    "options": [
+      "Bus",
+      "Train",
+      "Boat",
+      "Cycle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the color of the sun?",
+    "options": [
+      "Blue",
+      "Red",
+      "Yellow",
+      "Green"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What do we use to write on a blackboard?",
+    "options": [
+      "Pen",
+      "Pencil",
+      "Chalk",
+      "Marker"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What helps us to chew food?",
+    "options": [
+      "Tongue",
+      "Teeth",
+      "Nose",
+      "Ears"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Where do cows live?",
+    "options": [
+      "Stable",
+      "Kennel",
+      "Shed",
+      "Nest"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which one is a leafy vegetable?",
+    "options": [
+      "Potato",
+      "Spinach",
+      "Brinjal",
+      "Pumpkin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Who keeps our school clean?",
+    "options": [
+      "Principal",
+      "Teacher",
+      "Sweeper",
+      "Driver"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Where do we sleep?",
+    "options": [
+      "Chair",
+      "Sofa",
+      "Bed",
+      "Table"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these is used for transport?",
+    "options": [
+      "Chair",
+      "Fan",
+      "Bus",
+      "TV"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the shape of a clock?",
+    "options": [
+      "Triangle",
+      "Square",
+      "Circle",
+      "Rectangle"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which part of the plant grows under the ground?",
+    "options": [
+      "Stem",
+      "Root",
+      "Leaf",
+      "Flower"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What do we do with our eyes?",
+    "options": [
+      "Hear",
+      "Smell",
+      "See",
+      "Taste"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Where do hens lay eggs?",
+    "options": [
+      "Nest",
+      "Tree",
+      "Water",
+      "Cave"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What do we wear when it is cold?",
+    "options": [
+      "Cotton clothes",
+      "Raincoat",
+      "Woolen clothes",
+      "Swimsuit"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What do we do in school?",
+    "options": [
+      "Cook",
+      "Learn",
+      "Sleep",
+      "Drive"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which fruit has thorns on its skin?",
+    "options": [
+      "Banana",
+      "Pineapple",
+      "Apple",
+      "Mango"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which is the national bird of India?",
+    "options": [
+      "Sparrow",
+      "Peacock",
+      "Parrot",
+      "Eagle"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these flies in the sky?",
+    "options": [
+      "Fish",
+      "Kite",
+      "Car",
+      "Chair"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Where do we go to read books?",
+    "options": [
+      "Library",
+      "Hospital",
+      "Mall",
+      "Kitchen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What do we eat to keep us healthy?",
+    "options": [
+      "Junk food",
+      "Fruits and vegetables",
+      "Ice cream",
+      "Chips"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is a baby dog called?",
+    "options": [
+      "Cub",
+      "Kitten",
+      "Puppy",
+      "Chick"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which part of the plant makes food?",
+    "options": [
+      "Stem",
+      "Leaf",
+      "Root",
+      "Flower"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which one of these is a fruit?",
+    "options": [
+      "Potato",
+      "Tomato",
+      "Cabbage",
+      "Spinach"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What do we do before eating food?",
+    "options": [
+      "Play",
+      "Watch TV",
+      "Wash hands",
+      "Read"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What do bees collect from flowers?",
+    "options": [
+      "Leaves",
+      "Pollen",
+      "Fruits",
+      "Seeds"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these lives in water?",
+    "options": [
+      "Camel",
+      "Fish",
+      "Cat",
+      "Horse"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which shape is a coin?",
+    "options": [
+      "Square",
+      "Rectangle",
+      "Circle",
+      "Oval"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What do we use to carry school books?",
+    "options": [
+      "Basket",
+      "Bag",
+      "Tray",
+      "Drum"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Where do birds live?",
+    "options": [
+      "Burrow",
+      "Kennel",
+      "Nest",
+      "Hive"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which part of the plant has seeds?",
+    "options": [
+      "Root",
+      "Stem",
+      "Fruit",
+      "Leaf"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What does a cobbler do?",
+    "options": [
+      "Stitches clothes",
+      "Drives car",
+      "Mends shoes",
+      "Sells fruits"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What do we do with our ears?",
+    "options": [
+      "See",
+      "Hear",
+      "Taste",
+      "Smell"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What do we get from hens?",
+    "options": [
+      "Milk",
+      "Wool",
+      "Eggs",
+      "Honey"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which festival is called the festival of lights?",
+    "options": [
+      "Holi",
+      "Diwali",
+      "Eid",
+      "Christmas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which sense organ helps us to touch?",
+    "options": [
+      "Skin",
+      "Ear",
+      "Eye",
+      "Tongue"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Where do we cook food?",
+    "options": [
+      "Bathroom",
+      "Kitchen",
+      "Bedroom",
+      "Garage"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What do we wear on our hands in winter?",
+    "options": [
+      "Gloves",
+      "Shoes",
+      "Scarf",
+      "Hat"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What do we do when we are tired?",
+    "options": [
+      "Eat",
+      "Sleep",
+      "Jump",
+      "Sing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these is not a means of transport?",
+    "options": [
+      "Car",
+      "Bus",
+      "Bicycle",
+      "Television"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which is a festival of colors?",
+    "options": [
+      "Diwali",
+      "Eid",
+      "Holi",
+      "Christmas"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the color of the leaves?",
+    "options": [
+      "Blue",
+      "Green",
+      "Red",
+      "Yellow"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these animals has a hump?",
+    "options": [
+      "Cow",
+      "Camel",
+      "Goat",
+      "Horse"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a herbivore?",
+    "options": [
+      "Tiger",
+      "Lion",
+      "Goat",
+      "Leopard"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which organ do we use to taste food?",
+    "options": [
+      "Nose",
+      "Tongue",
+      "Ear",
+      "Hand"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Where do we store food in the kitchen?",
+    "options": [
+      "Table",
+      "Cupboard",
+      "Sofa",
+      "Sink"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these is used to keep time?",
+    "options": [
+      "Calendar",
+      "Clock",
+      "Television",
+      "Fan"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Where do we get wool from?",
+    "options": [
+      "Cow",
+      "Goat",
+      "Sheep",
+      "Hen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which sense organ helps us to smell?",
+    "options": [
+      "Nose",
+      "Ear",
+      "Eye",
+      "Skin"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What do we use to eat food?",
+    "options": [
+      "Spoon",
+      "Pen",
+      "Chalk",
+      "Comb"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Who delivers letters to our house?",
+    "options": [
+      "Teacher",
+      "Driver",
+      "Postman",
+      "Doctor"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Where do we go when we are sick?",
+    "options": [
+      "School",
+      "Park",
+      "Hospital",
+      "Market"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What do we get from trees?",
+    "options": [
+      "Plastic",
+      "Paper",
+      "Iron",
+      "Gold"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which season is very hot?",
+    "options": [
+      "Winter",
+      "Rainy",
+      "Summer",
+      "Autumn"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What do we wear to protect our eyes from the sun?",
+    "options": [
+      "Hat",
+      "Shoes",
+      "Sunglasses",
+      "Shirt"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Where do lions live?",
+    "options": [
+      "Den",
+      "Nest",
+      "Cave",
+      "Burrow"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which part of the plant is colorful?",
+    "options": [
+      "Root",
+      "Leaf",
+      "Flower",
+      "Stem"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of these insects has colorful wings?",
+    "options": [
+      "Ant",
+      "Fly",
+      "Butterfly",
+      "Bee"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What do we wear on our feet?",
+    "options": [
+      "Gloves",
+      "Cap",
+      "Shoes",
+      "Belt"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which fruit is yellow in color?",
+    "options": [
+      "Apple",
+      "Banana",
+      "Grapes",
+      "Chikoo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is a domestic animal?",
+    "options": [
+      "Tiger",
+      "Cow",
+      "Lion",
+      "Fox"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which part of the day do we eat lunch?",
+    "options": [
+      "Morning",
+      "Afternoon",
+      "Evening",
+      "Night"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What do we call a house made of snow?",
+    "options": [
+      "Hut",
+      "Tent",
+      "Igloo",
+      "Cottage"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which vehicle has two wheels?",
+    "options": [
+      "Car",
+      "Cycle",
+      "Bus",
+      "Train"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Where do ducks live?",
+    "options": [
+      "Nest",
+      "Water",
+      "Cave",
+      "Burrow"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What do we get from plants?",
+    "options": [
+      "Water",
+      "Air",
+      "Milk",
+      "Wool"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What do we do with a ball?",
+    "options": [
+      "Eat",
+      "Wear",
+      "Throw",
+      "Write"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Who helps us to learn?",
+    "options": [
+      "Tailor",
+      "Driver",
+      "Teacher",
+      "Cook"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the baby of a cat called?",
+    "options": [
+      "Cub",
+      "Kitten",
+      "Puppy",
+      "Foal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these animals gives us milk?",
+    "options": [
+      "Dog",
+      "Horse",
+      "Goat",
+      "Hen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What do we use to clean our teeth?",
+    "options": [
+      "Soap",
+      "Towel",
+      "Toothbrush",
+      "Comb"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Where does a fish live?",
+    "options": [
+      "Water",
+      "Air",
+      "Sand",
+      "Tree"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a flying insect?",
+    "options": [
+      "Bee",
+      "Ant",
+      "Earthworm",
+      "Spider"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What do we use to dry our body after a bath?",
+    "options": [
+      "Brush",
+      "Towel",
+      "Soap",
+      "Razor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of these is a festival of India?",
+    "options": [
+      "Christmas",
+      "Eid",
+      "Diwali",
+      "All of these"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Who helps to put out fire?",
+    "options": [
+      "Policeman",
+      "Doctor",
+      "Firefighter",
+      "Pilot"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which part of the day do we sleep?",
+    "options": [
+      "Morning",
+      "Afternoon",
+      "Night",
+      "Evening"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What do we do when we are happy?",
+    "options": [
+      "Cry",
+      "Laugh",
+      "Sleep",
+      "Shout"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What do we do with our nose?",
+    "options": [
+      "See",
+      "Smell",
+      "Hear",
+      "Talk"
+    ],
+    "correctIndex": 1
+  }
+]

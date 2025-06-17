@@ -1,0 +1,992 @@
+[
+    {
+        "question": "Which number comes after 49?",
+        "options": [
+            "50",
+            "48",
+            "51",
+            "47"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is 9 + 6?",
+        "options": [
+            "15",
+            "14",
+            "13",
+            "16"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which of these is a square shape?",
+        "options": [
+            "Circle",
+            "Triangle",
+            "Rectangle",
+            "Box"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "How many sides does a triangle have?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is 100 – 50?",
+        "options": [
+            "60",
+            "40",
+            "50",
+            "30"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which coin has the highest value?",
+        "options": [
+            "1 rupee",
+            "2 rupees",
+            "5 rupees",
+            "10 rupees"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "How many hours in a day?",
+        "options": [
+            "12",
+            "24",
+            "6",
+            "18"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of these is longer?",
+        "options": [
+            "1 cm",
+            "1 m",
+            "1 mm",
+            "1 inch"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What comes just before 100?",
+        "options": [
+            "98",
+            "97",
+            "99",
+            "101"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the shape of a coin?",
+        "options": [
+            "Square",
+            "Triangle",
+            "Circle",
+            "Rectangle"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which number is the greatest?",
+        "options": [
+            "21",
+            "31",
+            "13",
+            "23"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the sum of 25 and 15?",
+        "options": [
+            "45",
+            "40",
+            "35",
+            "30"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is double of 7?",
+        "options": [
+            "14",
+            "12",
+            "10",
+            "13"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How many minutes in one hour?",
+        "options": [
+            "60",
+            "30",
+            "45",
+            "90"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How many 5 rupee coins make 20 rupees?",
+        "options": [
+            "2",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the shape of a dice?",
+        "options": [
+            "Cuboid",
+            "Sphere",
+            "Cube",
+            "Cylinder"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is 12 – 8?",
+        "options": [
+            "5",
+            "4",
+            "3",
+            "2"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is 5 tens + 3 ones?",
+        "options": [
+            "53",
+            "35",
+            "50",
+            "30"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which day comes after Friday?",
+        "options": [
+            "Wednesday",
+            "Saturday",
+            "Monday",
+            "Thursday"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How many corners does a rectangle have?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which number is odd?",
+        "options": [
+            "2",
+            "4",
+            "6",
+            "9"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is 20 + 30?",
+        "options": [
+            "50",
+            "40",
+            "60",
+            "30"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How many legs does a triangle have?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which of these is a measurement of length?",
+        "options": [
+            "Kg",
+            "Litre",
+            "Metre",
+            "Rupee"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the missing number: 10, 20, __, 40",
+        "options": [
+            "25",
+            "30",
+            "15",
+            "35"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of these is smallest?",
+        "options": [
+            "17",
+            "21",
+            "13",
+            "19"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "How many edges does a cube have?",
+        "options": [
+            "8",
+            "10",
+            "12",
+            "6"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is 10 more than 65?",
+        "options": [
+            "75",
+            "70",
+            "80",
+            "55"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is half of 20?",
+        "options": [
+            "5",
+            "10",
+            "15",
+            "12"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which is the even number?",
+        "options": [
+            "11",
+            "13",
+            "15",
+            "16"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "How many 2 rupee coins make 10 rupees?",
+        "options": [
+            "4",
+            "5",
+            "3",
+            "2"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How many months are there in a year?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What comes after 89?",
+        "options": [
+            "88",
+            "87",
+            "90",
+            "91"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is 3 × 4?",
+        "options": [
+            "7",
+            "12",
+            "9",
+            "10"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How many sides does a circle have?",
+        "options": [
+            "1",
+            "0",
+            "2",
+            "3"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of these is heavier?",
+        "options": [
+            "1 kg",
+            "500 g",
+            "100 g",
+            "1 mg"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the time at half past 2?",
+        "options": [
+            "2:00",
+            "2:30",
+            "3:00",
+            "1:30"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of these is a solid shape?",
+        "options": [
+            "Square",
+            "Triangle",
+            "Cube",
+            "Circle"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the missing number: 5, 10, __, 20",
+        "options": [
+            "12",
+            "15",
+            "13",
+            "17"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the value of 8 – 3?",
+        "options": [
+            "6",
+            "5",
+            "4",
+            "3"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which day comes before Monday?",
+        "options": [
+            "Saturday",
+            "Sunday",
+            "Friday",
+            "Wednesday"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of the following is not a coin?",
+        "options": [
+            "₹1",
+            "₹2",
+            "₹3",
+            "₹5"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which is a quarter of 8?",
+        "options": [
+            "1",
+            "2",
+            "4",
+            "6"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which number is between 34 and 36?",
+        "options": [
+            "33",
+            "35",
+            "37",
+            "32"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of the following is not a 2D shape?",
+        "options": [
+            "Triangle",
+            "Square",
+            "Rectangle",
+            "Ball"
+        ],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is 7 + 9?",
+        "options": [
+            "15",
+            "16",
+            "17",
+            "18"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How many seconds in one minute?",
+        "options": [
+            "60",
+            "30",
+            "45",
+            "90"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which of these is a unit of weight?",
+        "options": [
+            "Litre",
+            "Gram",
+            "Metre",
+            "Rupee"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which is more: 3 tens or 2 tens?",
+        "options": [
+            "3 tens",
+            "2 tens",
+            "Equal",
+            "None"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the shape of a birthday cap?",
+        "options": [
+            "Cylinder",
+            "Cone",
+            "Cuboid",
+            "Cube"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of the following is used to measure time?",
+        "options": [
+            "Clock",
+            "Ruler",
+            "Balance",
+            "Scale"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which number is smallest?",
+        "options": [
+            "12",
+            "14",
+            "10",
+            "15"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the next number in the pattern: 2, 4, 6, __?",
+        "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How many 10s are there in 50?",
+        "options": [
+            "5",
+            "10",
+            "2",
+            "4"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the total of 12 and 13?",
+        "options": [
+            "25",
+            "24",
+            "26",
+            "23"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the missing number: __, 18, 19, 20",
+        "options": [
+            "15",
+            "16",
+            "17",
+            "14"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the result of 40 - 18?",
+        "options": [
+            "22",
+            "23",
+            "24",
+            "21"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which shape has only one curved edge?",
+        "options": [
+            "Triangle",
+            "Circle",
+            "Square",
+            "Rectangle"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the sum of 17 and 9?",
+        "options": [
+            "26",
+            "25",
+            "27",
+            "28"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which object holds more water?",
+        "options": [
+            "Cup",
+            "Bucket",
+            "Glass",
+            "Spoon"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the time if the short hand is at 3 and long hand at 12?",
+        "options": [
+            "3:30",
+            "3:00",
+            "12:00",
+            "6:00"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How many fingers are there on two hands?",
+        "options": [
+            "8",
+            "10",
+            "12",
+            "5"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is 6 more than 29?",
+        "options": [
+            "34",
+            "35",
+            "36",
+            "33"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which shape is used to make a tent?",
+        "options": [
+            "Circle",
+            "Rectangle",
+            "Triangle",
+            "Cube"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is 5 × 2?",
+        "options": [
+            "7",
+            "9",
+            "10",
+            "12"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which of these shows half?",
+        "options": [
+            "1/4",
+            "1/3",
+            "1/2",
+            "1"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which of the following is a 3D shape?",
+        "options": [
+            "Rectangle",
+            "Square",
+            "Cone",
+            "Triangle"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "How many tens are in 90?",
+        "options": [
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the missing number: 15, __, 25, 30",
+        "options": [
+            "20",
+            "18",
+            "17",
+            "22"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is 4 less than 20?",
+        "options": [
+            "16",
+            "15",
+            "18",
+            "14"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which is the largest 2-digit number?",
+        "options": [
+            "90",
+            "98",
+            "99",
+            "89"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which side of a book is the longest?",
+        "options": [
+            "Length",
+            "Breadth",
+            "Height",
+            "Top"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is double of 8?",
+        "options": [
+            "14",
+            "16",
+            "18",
+            "12"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which day comes after Tuesday?",
+        "options": [
+            "Wednesday",
+            "Thursday",
+            "Monday",
+            "Friday"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the sum of 11 + 22?",
+        "options": [
+            "32",
+            "33",
+            "34",
+            "31"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which of these is used to weigh things?",
+        "options": [
+            "Clock",
+            "Balance",
+            "Ruler",
+            "Thermometer"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What shape is a wheel?",
+        "options": [
+            "Rectangle",
+            "Oval",
+            "Circle",
+            "Triangle"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which is more: 3 notes of ₹10 or 1 note of ₹50?",
+        "options": [
+            "3 notes of ₹10",
+            "₹50",
+            "Equal",
+            "₹30"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How many corners in a cube?",
+        "options": [
+            "4",
+            "6",
+            "8",
+            "10"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which number comes before 60?",
+        "options": [
+            "59",
+            "58",
+            "61",
+            "62"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is 45 + 15?",
+        "options": [
+            "50",
+            "55",
+            "60",
+            "65"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which unit is used to measure milk?",
+        "options": [
+            "Kg",
+            "Litre",
+            "Metre",
+            "Gram"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How many corners does a square have?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which number is between 70 and 72?",
+        "options": [
+            "71",
+            "69",
+            "73",
+            "74"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How many 1 rupee coins make 10 rupees?",
+        "options": [
+            "5",
+            "10",
+            "15",
+            "20"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is 30 – 7?",
+        "options": [
+            "24",
+            "22",
+            "23",
+            "25"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What shape is an ice cream cone?",
+        "options": [
+            "Cylinder",
+            "Cone",
+            "Sphere",
+            "Cuboid"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which object shows time?",
+        "options": [
+            "Clock",
+            "Scale",
+            "Glass",
+            "Pen"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which number has 6 tens and 5 ones?",
+        "options": [
+            "56",
+            "65",
+            "60",
+            "66"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is 14 – 6?",
+        "options": [
+            "9",
+            "7",
+            "8",
+            "10"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which of these is flat?",
+        "options": [
+            "Ball",
+            "Book cover",
+            "Box",
+            "Cone"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is 3 tens + 7 ones?",
+        "options": [
+            "37",
+            "30",
+            "17",
+            "73"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which object is heavier?",
+        "options": [
+            "Feather",
+            "Rock",
+            "Paper",
+            "Leaf"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "How many toes do you have?",
+        "options": [
+            "8",
+            "9",
+            "10",
+            "12"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is 2 less than 50?",
+        "options": [
+            "48",
+            "49",
+            "47",
+            "46"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How many shapes are there in a square?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctIndex": 0
+    },
+    {
+        "question": "How many coins of ₹2 make ₹12?",
+        "options": [
+            "5",
+            "6",
+            "4",
+            "7"
+        ],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which is taller?",
+        "options": [
+            "Pencil",
+            "Eraser",
+            "Ruler",
+            "Sharpener"
+        ],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the opposite of subtraction?",
+        "options": [
+            "Multiplication",
+            "Division",
+            "Addition",
+            "Skip counting"
+        ],
+        "correctIndex": 2
+    }
+]
