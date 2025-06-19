@@ -25,7 +25,7 @@ const validUsers = [
     if (matchedUser) {
       // Successful login
       sessionStorage.setItem("loggedIn", "true");
-      window.location.href = "index.html";
+      window.location.href = "quizz.html";
     } else {
       // Show error
       errorDisplay.textContent = "Invalid username or password.";
