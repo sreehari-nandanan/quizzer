@@ -12,14 +12,11 @@
 <body>
   
   <script>
-    (function () {
-      const isLoggedIn = sessionStorage.getItem("loggedIn");
-      if (isLoggedIn !== "true") {
-        alert("Access denied. Please log in first.");
-        window.location.href = "login.html";
-      }
-    })();
-  </script>
+  if (sessionStorage.getItem("loggedIn") !== "true") {
+    window.location.href = "login.html";
+  }
+</script>
+
 
   <div class="app-container">
     <!-- Home Screen -->
